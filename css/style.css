@@ -4,7 +4,8 @@
 body {
 margin: 0px;
 padding: 0px;
-background-image: url("images\fondo.png")
+background-image: url("../images/tumblr_inline_otrdmlObj41tzhl5u_500.gif" );
+background-size: 100%;
 }
 
 div.game.row {
@@ -59,7 +60,7 @@ padding: 20px;
     margin-left: 60px;
     padding: 20px;
 }
-p {
+.blocks {
     color: #91D94A;
 }
 .row:after {
